@@ -523,7 +523,7 @@
 		</dict>
 	</array>
 	<key>CFBundleExecutable</key>
-	<string>06_video_from_ASU_01</string>
+	<string>06_video_receiver_01</string>
 	<key>CFBundleGetInfoString</key>
 	<string>6.1.5, Copyright 2012 Cycling '74</string>
 	<key>CFBundleIconFile</key>
